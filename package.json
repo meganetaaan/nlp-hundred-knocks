@@ -1,0 +1,19 @@
+{
+  "name": "nlp-hundred-knocks",
+  "version": "0.0.1",
+  "description": "NLP Hundred Knocks ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/meganetaaan/nlp-hundred-knocks"
+  },
+  "keywords": [
+    "nlp"
+  ],
+  "author": "Shinya Ishikawa",
+  "license": "MIT",
+  "private": "true"
+}
